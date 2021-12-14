@@ -1,0 +1,27 @@
+.envrc
+.direnv
+.tmp
+.idea
+.cache
+venv
+auth/
+__pycache__
+tmp/
+build/
+*.pyc
+.vscode
+deep_dialog_tutorial
+.ipynb_checkpoints
+# ======================
+# OS generated
+# ======================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+!.gitkeep
